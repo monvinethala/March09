@@ -1,0 +1,4 @@
+Branched DevelopA and created DevelopB Branch.
+Master is default branch of repository. 
+copy/snapshort of master is captured when a branch is created from a master. 
+changes made to the master by a different user while working on the branch copy that can be pulled to that branhc using PULL request.
